@@ -1,0 +1,29 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "Relationship between users",
+  "main": "server",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilanil/social-media-server.git"
+  },
+  "keywords": [
+    "anil"
+  ],
+  "author": "anil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patilanil/social-media-server/issues"
+  },
+  "homepage": "https://github.com/patilanil/social-media-server#readme",
+  "dependencies": {
+    "async": "^3.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "xml2js": "^0.4.23"
+  }
+}
